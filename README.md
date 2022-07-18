@@ -1,6 +1,10 @@
-<h1 align=center> OpenVas NVT Updater </h1
+<h1 align=center> OpenVas NVT Updater </h1>
+
+<h3 align=center> 
 
 ![](Images/open_vas_logo.png)
+
+</h3>
 
 Simple Bash script that can be used to update NVT cache in OpenVas Vulnerability Scanner upon initial setup.
 

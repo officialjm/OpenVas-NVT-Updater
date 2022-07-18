@@ -17,7 +17,7 @@ sudo chmod +x OpenVas_NVTUpdater.sh
 `OpenVas_NVTUpdater.sh` script details (might need to be edited based on install location):
 
  ```bash
- !/bin/bash
+ #!/bin/bash
 export FEED=feed.community.greenbone.net
 export COMMUNITY_NVT_RSYNC_FEED=rsync://$FEED:/nvt-feed
 export COMMUNITY_CERT_RSYNC_FEED=rsync://$FEED:/cert-data
